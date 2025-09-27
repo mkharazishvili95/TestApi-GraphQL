@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\OneDrive\\Desktop\\Test\\TestGraph\\TestGraph\\TestGraph.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\Desktop\\Testt\\TestApi-GraphQL\\TestGraph.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\OneDrive\\Desktop\\Test\\TestGraph\\TestGraph\\TestGraph.csproj": {
+    "C:\\Users\\admin\\OneDrive\\Desktop\\Testt\\TestApi-GraphQL\\TestGraph.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\Test\\TestGraph\\TestGraph\\TestGraph.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\Testt\\TestApi-GraphQL\\TestGraph.csproj",
         "projectName": "TestGraph",
-        "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Test\\TestGraph\\TestGraph\\TestGraph.csproj",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Testt\\TestApi-GraphQL\\TestGraph.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Test\\TestGraph\\TestGraph\\obj\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Testt\\TestApi-GraphQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
